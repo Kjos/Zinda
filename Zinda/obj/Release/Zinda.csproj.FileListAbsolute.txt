@@ -1,0 +1,9 @@
+C:\Users\Kajos\Documents\Zinda\Zinda\obj\Release\Zinda.csprojAssemblyReference.cache
+C:\Users\Kajos\Documents\Zinda\Zinda\obj\Release\Zinda.Properties.Resources.resources
+C:\Users\Kajos\Documents\Zinda\Zinda\obj\Release\Zinda.csproj.GenerateResource.cache
+C:\Users\Kajos\Documents\Zinda\Zinda\obj\Release\Zinda.csproj.CoreCompileInputs.cache
+C:\Users\Kajos\Documents\Zinda\Zinda\bin\Release\Zinda.exe.config
+C:\Users\Kajos\Documents\Zinda\Zinda\bin\Release\Zinda.exe
+C:\Users\Kajos\Documents\Zinda\Zinda\bin\Release\Zinda.pdb
+C:\Users\Kajos\Documents\Zinda\Zinda\obj\Release\Zinda.exe
+C:\Users\Kajos\Documents\Zinda\Zinda\obj\Release\Zinda.pdb

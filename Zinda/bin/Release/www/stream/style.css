@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	height: 100%;
+}
+canvas {
+	position: fixed:
+	top: 0;
+	left: 0;
+	z-index: 0;
+	width: 50%;
+	height: 50%;
+}
+a:link{color:inherit}
+a:active{color:inherit}
+a:visited{color:inherit}
+a:hover{color:inherit}

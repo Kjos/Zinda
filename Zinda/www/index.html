@@ -1,0 +1,41 @@
+<html>
+<head>
+    <title>(O)KChatty.com</title>
+    <head>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <script>
+            var ADDR_PORT = "192.168.1.100:5000";
+            var WS_URL = "wss://192.168.1.100:5000/kchatty";
+            var JPEG_QUALITY = 50;
+            var FPS = 15;
+            var WIDTH = 640;
+            var HEIGHT = 480;
+            var IGNORE_DIFFERENCE = 0.02;
+            var KEYFRAME_THRESHOLD_SUM = IGNORE_DIFFERENCE * 8;
+            var BFRAME_THRESHOLD = 0.75;</script>
+        <script>
+        // petitojpeg fix
+        var define = { amd: undefined }
+        </script>
+        <script type="text/javascript" src="js/util.js"></script>
+        <script type="text/javascript" src="js/pttjpeg.js"></script>
+        <script type="text/javascript" src="js/dtmf.js"></script>
+        <script type="text/javascript" src="js/camvas.js"></script>
+        <script type="text/javascript" src="js/pcm-player.js"></script>
+        <script type="text/javascript" src="js/audio-upload.js"></script>
+        <script type="text/javascript" src="js/audio-stream.js"></script>
+        <script type="text/javascript" src="js/video-upload.js"></script>
+        <script type="text/javascript" src="js/video-stream.js"></script>
+        <script type="text/javascript" src="js/websocket.js"></script>
+        <meta name="viewport" content="width=device-width, target-densitydpi=device-dpi, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    </head>
+</head>
+<body>
+    <div id="error"></div>
+    <div id="fps"></div>
+    <div id="wrapper">
+    </div>
+    <canvas id="uploadCanvas" style="display:none"></canvas>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+</body>
+</html>

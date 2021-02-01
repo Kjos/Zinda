@@ -1,0 +1,38 @@
+body {
+    scale(1);
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(#000, #111, #000);
+    color: #fff;
+    font-family: Arial;
+    height: 100vh;
+    display: table-cell;
+    vertical-align: middle;
+    overflow: hidden;
+}
+#error {
+    width: 100vw;
+    text-align: center;
+}
+#fps {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#wrapper {
+    width: 100vw;
+    text-align: center;
+    padding: 10px;
+}
+#wrapper canvas {
+    display: inline;
+    margin: 10px;
+}
+#wrapper video {
+    display: inline;
+    margin: 10px;
+}
+a:link{color:inherit}
+a:active{color:inherit}
+a:visited{color:inherit}
+a:hover{color:inherit}

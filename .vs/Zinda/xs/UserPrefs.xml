@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{BD942050-C4B2-4431-A438-565B3B898633}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zinda/www/index.html">
+    <Files>
+      <File FileName="Zinda/www/js/video-upload.js" Line="50" Column="38" />
+      <File FileName="Zinda/www/js/video-stream.js" Line="14" Column="1" />
+      <File FileName="Zinda/www/js/websocket.js" Line="42" Column="31" />
+      <File FileName="Zinda/www/js/audio-stream.js" Line="18" Column="28" />
+      <File FileName="Zinda/www/js/audio-upload.js" Line="25" Column="40" />
+      <File FileName="Zinda/www/js/camvas.js" Line="74" Column="1" />
+      <File FileName="Zinda/www/index.html" Line="9" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zinda" expanded="True">
+            <Node name="Zinda" expanded="True">
+              <Node name="www" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="index.html" selected="True" />
+              </Node>
+              <Node name="Form.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Zinda PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
